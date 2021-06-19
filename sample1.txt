@@ -1,1 +1,2 @@
 this is my second file sample1.txt
+Addeding new line sample1 from master
